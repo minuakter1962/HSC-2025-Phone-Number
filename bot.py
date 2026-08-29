@@ -18,7 +18,7 @@ def run(): app_web.run(host='0.0.0.0', port=10000)
 def keep_alive(): Thread(target=run).start()
 
 # ================= CONFIGURATION =================
-TOKEN = "8525135460:AAESoDy-Usc4kWzse9twe5LTIVi-vxB_zDE" 
+TOKEN = "8525135460:AAEeHsNiz08_s2H-slothgkzroFXsG-Jd60" 
 FILE_NAME = "data.csv"
 
 # এটিই আপনার স্টপ বাটনকে সুপারফাস্ট করবে
